@@ -1,0 +1,7 @@
+{
+    "postman.settings.dotenv-detection-notification-visibility": false,
+    "vscode-pets.theme": "forest",
+    "vscode-pets.throwBallWithMouse": true,
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.petColor": "lightbrown"
+}
